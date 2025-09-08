@@ -6,6 +6,7 @@ The interactive **Power BI Dashboard** provides insights into 📈 revenue trend
 ---
 
 # 💡 Project Logo
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/1f2fdd5c-65f9-4524-b096-a1b3fc77ead0" />
 
 ✨ Key Highlights:  
 - 💰 **Total Revenue:** $22.91M  
