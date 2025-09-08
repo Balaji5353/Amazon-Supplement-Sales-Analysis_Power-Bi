@@ -55,7 +55,7 @@ To ensure 🔐 **data confidentiality**, **RLS** is applied for **location-based
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard](Dashboard.png)  
+<img width="907" height="520" alt="Image" src="https://github.com/user-attachments/assets/daa3678e-5cd4-4dbd-99f3-555101508f47" />  
 
 ---
 
