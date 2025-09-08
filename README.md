@@ -3,6 +3,9 @@
 ## 📌 Project Overview  
 This project focuses on analyzing **Supplement Sales Data** across major platforms (**Amazon, Walmart, iHerb**).  
 The interactive **Power BI Dashboard** provides insights into 📈 revenue trends, 🛒 product performance, 🔄 returns, and 🌍 geographical distribution of sales.  
+---
+
+# 💡 Project Logo
 
 ✨ Key Highlights:  
 - 💰 **Total Revenue:** $22.91M  
